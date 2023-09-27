@@ -1,4 +1,4 @@
---Covid 19 Data Exploration 
+--Covid-19 Project 
 --Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 Source: https://ourworldindata.org/covid-deaths
 
